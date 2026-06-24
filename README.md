@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**# 💫 About Me:
+# 💫 About Me:
 🔭 I'm currently working on: Improving my programming skills and building projects to strengthen my understanding of software development.<br><br>👯 I'm looking to collaborate on: Open-source projects, web development projects, and beginner-to-intermediate software applications.<br><br>🤝 I'm looking for help with: Data structures & algorithms, project development, and best practices in software engineering.<br><br>🌱 I'm currently learning: Java, Python, Object-Oriented Programming, Data Structures, and Web Development.<br><br>💬 Ask me about: Java, Python, programming fundamentals, computer science, philosophy, psychology, and drawing.<br><br>⚡ Fun fact: I enjoy combining creativity and logic—I love both coding and drawing.
 
 
@@ -18,16 +15,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=JananiNaidu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->JananiNaidu/JananiNaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
